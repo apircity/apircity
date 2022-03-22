@@ -1,4 +1,4 @@
-### 비트연산 ^ㅗ^
+### 비트연산 ^모^
 <!--
 **apircity/apircity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
