@@ -1,6 +1,6 @@
 ### backend
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={apircity})](https://solved.ac/{apircity})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=apircity)](https://solved.ac/apircity)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apircity&layout=compact&theme=onedark)
 <!--
 **apircity/apircity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
